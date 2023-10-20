@@ -1,0 +1,1 @@
+{"_id":{"$oid":"65095bc754b1f49e8f4dc701"},"user":{"$oid":"65094521d2e69180935a3ad3"},"orderItems":[{"productId":{"$oid":"65081b92b6c60fc530030b14"},"quantity":{"$numberInt":"5"}}],"checkout":true,"createdAt":{"$date":{"$numberLong":"1695112135717"}},"updatedAt":{"$date":{"$numberLong":"1695116444488"}},"__v":{"$numberInt":"0"}}
